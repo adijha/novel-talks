@@ -1,11 +1,3 @@
-# [MERN Blogging Application](https://makemyblog.herokuapp.com)
-
-![](blogApplication.gif)
-
-Technologies Used:
-- FrontEnd: [React.js](https://reactjs.org/), [React-Redux](https://react-redux.js.org/), ([Redux?](https://www.youtube.com/watch?v=3sjMRS1gJys)), React Hooks, React-Bootstrap, Redux-thunk, Axios
-- Database: [MongoDB](https://www.mongodb.com/), mongoose, [MongoDB Atlas](https://cloud.mongodb.com)
-- BackEnd: Node.js, Express.js, [Passport.js](http://www.passportjs.org/), JsonWebToken
 
 # Configuration
 For [configuring the environment variables](https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786) there are two common approaches:
@@ -37,8 +29,3 @@ npm install && npm run client-install
 // Run client & server with concurrently
 npm run dev
 ```
-
-[Install & Configure Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension)
-
-[Learn & Build a MERN Blog Application in 100 hours](https://medium.com/@rajatdhoot/learn-build-a-mern-stack-application-in-100-hours-part-1-ee56e3f61979)
-
